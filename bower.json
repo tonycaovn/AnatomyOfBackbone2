@@ -1,0 +1,10 @@
+{
+    "name": "AnatomyOfBackbone",
+    "version": "0.0.1",
+    "dependencies": {
+        "jquery": "1.9",
+        "backbone": null,
+        "underscore": null,
+        "requirejs": null
+    }
+}
